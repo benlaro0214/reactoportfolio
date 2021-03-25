@@ -1,0 +1,45 @@
+.footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  position: fixed;
+  bottom: 1;
+  left: 0;
+  width: 100%; 
+}
+
+.footer span {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #B8B8B8;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: none;
+  color: white;
+}
+
+.fa-at {
+  background: none; 
+  color: white;  
+}
+
+.fa-github-square {
+    background: none;
+    color: white;
+
+}
